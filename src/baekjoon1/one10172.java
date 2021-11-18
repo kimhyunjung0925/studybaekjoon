@@ -1,6 +1,6 @@
 package baekjoon1;
 
-public class Dog {
+public class one10172 {
     public static void main(String[] args) {
         System.out.println("|\\_/|");
         System.out.println("|q p|   /}");

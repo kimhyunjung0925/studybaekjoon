@@ -1,13 +1,14 @@
-package baekjoon2;
+package baekjoon1;
 
 import java.util.Scanner;
-//어우
-public class AlarmClock {
+
+public class one10998 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int A,B;
         A = sc.nextInt();
         B = sc.nextInt();
-        
+        System.out.println(A * B);
     }
 }
+

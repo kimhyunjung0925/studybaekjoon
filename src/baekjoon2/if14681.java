@@ -2,7 +2,7 @@ package baekjoon2;
 
 import java.util.Scanner;
 //틀림 괄호 잘못침,,
-public class Quadrant {
+public class if14681 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();

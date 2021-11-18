@@ -1,16 +1,14 @@
-package baekjoon2;
+package baekjoon3;
 
 import java.util.Scanner;
 
-public class YoonDal {
+public class for2739 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int A;
         A = sc.nextInt();
-        if(A%4==0 && A%100!=0 || A%400==0){
-            System.out.println("1");
-        } else {
-            System.out.println("0");
+        for(int i=1; i<10; i++){
+            System.out.println(A + " * " + i + " = " + (A*i) );
         }
     }
 }

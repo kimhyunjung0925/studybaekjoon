@@ -2,7 +2,7 @@ package baekjoon2;
 
 import java.util.Scanner;
 //틀림 60점대 안넣고 돌림,,
-public class TestResult {
+public class if9498 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int A;
